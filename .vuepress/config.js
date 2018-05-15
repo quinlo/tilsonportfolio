@@ -15,12 +15,24 @@ module.exports = {
       },
       {
         text: 'Team',
-        link: 'team'
+        link: '/team/'
       },
       {
         text: 'Projects',
-        link: '/projects'
+        link: '/projects/'
       },
-    ]
+    ],
+    sidebar: {
+      '/team/': [
+        'members',
+        'skillsets',
+      ],
+      '/projects/': [
+        'broadwayhd',
+        'seascribe',
+        'kleinschmidt',
+        'firstnetme'
+      ]
+    }
   }
 };
