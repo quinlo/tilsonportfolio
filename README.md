@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/cloudcomputevector.svg
 actionText: View Portfolio →
-actionLink: /projects/broadwayhd
+actionLink: /projects/
 features:
 - title: Cross-Platform
   details: Tilson's team of cross-platform, interdisciplinary software developers have the experience and capabilities to design, develop, and deliver a wide range of software solutions
