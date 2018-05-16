@@ -1,0 +1,23 @@
+{
+  "name": "tilsonportfolio",
+  "version": "1.0.0",
+  "description": "---\r home: true\r heroImage: /img/cloudcomputevector.svg\r actionText: View Portfolio →\r actionLink: /projects/\r features:\r - title: Cross-Platform\r   details: Tilson's team of cross-platform, interdisciplinary software developers have the experience and capabilities to design, develop, and deliver a wide range of software solutions\r - title: Expert Management\r   details: We place an emphasis on successful project management, utilizing agile development methodologies to stay on target and meet challenging deadlines without sacrificing quality\r - title: Objective-Based\r   details: Our team puts the client's interests and objectives above all and has the flexibility and skill-set to meet those needs allowing the client to focus on their core business\r footer: Copyright © 2018-present Tilson Technology\r ---\r # Customized Development For Your Specific Needs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quinlo/tilsonportfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quinlo/tilsonportfolio/issues"
+  },
+  "homepage": "https://github.com/quinlo/tilsonportfolio#readme",
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
